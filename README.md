@@ -28,7 +28,7 @@ El script para generar la base de datos en **SQL** se encuentra en el archivo [`
 2. Importar la base de datos en MySQL:
    - Abrir phpMyAdmin o un cliente MySQL.
    - Crear una base de datos llamada **JobPortal**.
-   - Ejecutar el script `job_portal_db.sql`.
+   - Ejecutar el script `jobportal.sql`.
 
 ## Integrantes
 - **Luis Ángel Sánchez** - Matrícula: *2023-1681*
